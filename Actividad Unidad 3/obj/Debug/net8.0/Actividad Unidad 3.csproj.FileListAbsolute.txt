@@ -1,0 +1,14 @@
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\Actividad Unidad 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\Actividad Unidad 3.AssemblyInfoInputs.cache
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\Actividad Unidad 3.AssemblyInfo.cs
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\Actividad Unidad 3.csproj.CoreCompileInputs.cache
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\bin\Debug\net8.0\Actividad Unidad 3.exe
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\bin\Debug\net8.0\Actividad Unidad 3.deps.json
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\bin\Debug\net8.0\Actividad Unidad 3.runtimeconfig.json
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\bin\Debug\net8.0\Actividad Unidad 3.dll
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\bin\Debug\net8.0\Actividad Unidad 3.pdb
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\Actividad Unidad 3.dll
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\refint\Actividad Unidad 3.dll
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\Actividad Unidad 3.pdb
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\Actividad Unidad 3.genruntimeconfig.cache
+C:\Users\dam1\source\repos\Actividad Unidad 3\Actividad Unidad 3\obj\Debug\net8.0\ref\Actividad Unidad 3.dll
